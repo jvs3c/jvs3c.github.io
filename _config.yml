@@ -14,7 +14,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: v3l4r10 # the main title
+title: jVs3c # the main title
 
 tagline: Security Researcher # it will display as the sub-title
 
@@ -23,10 +23,10 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://v3l4r10.github.io"
+url: "https://github.com/jvs3c/jvs3c.github.io"
 
 github:
-  username: v3l4r10 # change to your github username
+  username: jvs3c # change to your github username
 
 twitter:
   username: elonmusk # change to your twitter username
@@ -39,7 +39,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/elonmusk # change to your twitter homepage
-    - https://github.com/v3l4r10 # change to your github homepage
+    - https://github.com/jvs3c/jvs3c.github.io # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username

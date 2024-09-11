@@ -11,8 +11,8 @@ class AboutMe:
         self.web = 'https://jvs3c.github.io/'
         self.nick = 'v3l4r10'
         self.role = 'Security Researcher'
-        self.certs['OSWE', 'OSCP','OSWP','CRTE', 'BSCP', ...]
-	self.hobbies = ['OffSec','Traveling', 'Nature', '🍣' ...]
+        self.certs = ['OSWE', 'OSCP','OSWP','CRTE', 'BSCP', ...]
+	self.hobbies = ['OffSec 💻','Traveling ✈️', 'Nature 🏔️', 'Sushi 🍣' ...]
 		
 if __name__ == "__main__":
     me = AboutMe()
