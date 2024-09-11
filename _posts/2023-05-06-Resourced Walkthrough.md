@@ -1,6 +1,6 @@
 ---
 title: Resourced Walkthrough - Proving grounds
-tags: AD RPC Bloodhound Resource-based-constrained-delegation
+tags: AD PG OSCP
 categories: Windows
 ---
 In this entry I will solve PG's Resourced machine. It is an active directory machine in the [TJNull](https://docs.google.com/spreadsheets/u/1/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview) list. My purpose in sharing this post is to prepare for OSCP exam. It is also to show you the way if you are in trouble. Please try to understand each step and take notes.

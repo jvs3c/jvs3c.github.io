@@ -1,6 +1,6 @@
 ---
 title: Readys Walkthrough - Proving grounds
-tags: Redis Wildcard WordPress
+tags: PG OSCP
 categories: Linux
 ---
 In this entry I will solve PG's Readys machine. It is an Linux machine in the [TJNull](https://docs.google.com/spreadsheets/u/1/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview) list. My purpose in sharing this post is to prepare for OSCP exam. It is also to show you the way if you are in trouble. Please try to understand each step and take notes.

@@ -1,6 +1,6 @@
 ---
 title: Vault Walkthrough - Proving grounds
-tags: NTLMv2 SeRestorePrivilege
+tags: PG OSCP
 categories: Windows
 ---
 In this entry I will solve the proving grounds Vault machine. It is a Windows machine in the TJ Null list. My purpose in sharing this post is to prepare for OSCP exam. It is also to show you the way if you are in trouble. Please try to understand each step and take notes.

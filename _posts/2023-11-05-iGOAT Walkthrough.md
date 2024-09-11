@@ -1,5 +1,6 @@
 ---
 title: iGOAT Walkthrough
+tags: iOS
 categories: Mobile iOS
 mermaid: true
 ---
