@@ -12,7 +12,7 @@ class AboutMe:
         self.nick = 'v3l4r10'
         self.role = 'Security Researcher'
         self.certs['OSWE', 'OSCP','OSWP','CRTE', 'BSCP', ...]
-		self.hobbies = ['OffSec','Traveling', 'Nature', '🍣' ...]
+	self.hobbies = ['OffSec','Traveling', 'Nature', '🍣' ...]
 		
 if __name__ == "__main__":
     me = AboutMe()
