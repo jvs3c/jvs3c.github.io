@@ -6,13 +6,17 @@ order: 4
 ```python
 #!/usr/bin/env python3
 class AboutMe:
-    def init(self):
+    def __init__(self):
         self.name = 'Jon'
-        self.web = 'https://v3l4r10.github.io/'
+        self.web = 'https://jvs3c.github.io/'
         self.nick = 'v3l4r10'
-	self.country = 'Spain'
         self.role = 'Security Researcher'
-        self.hobbies = ['Chess', 'OffSec','RF Hacking', 'Nature', 'Sports' ...]
+        self.certs['OSWE', 'OSCP','OSWP','CRTE', 'BSCP', ...]
+		self.hobbies = ['OffSec','Traveling', 'Nature', '🍣' ...]
+		
+if __name__ == "__main__":
+    me = AboutMe()
+    print(me.display())
 ```
 
 <p>W3lc0m3 t0 my bl0g!!</p>
