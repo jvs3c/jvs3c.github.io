@@ -1,4 +1,3 @@
-
 ---
 title: AWS:IAM vulnerabilities - AddUserToGroup
 tags: 
@@ -123,8 +122,4 @@ After adding the user to the group, we need to verify that the group membership 
 
 This command will display all groups the user belongs to, including the newly added `privesc-sre-group`
 
-<span style="color: #242424;">Th4nkY0u f0r r34d1ng! :D</span>
-
-&nbsp;
-
-&nbsp;
+Th4nkY0u f0r r34d1ng! :D
