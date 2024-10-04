@@ -1,3 +1,8 @@
+---
+title: New Journey! - Bug Bountying 0/100
+tags: BugBounty
+categories: 
+---
 Welcome to the start of my 100 Days of Bug Bountying journey! 🎉Today, September 22nd, there are exactly 100 days left until the end of the year, for this reason I have decided to spend it on the following:  Over the next 100 days, I’ll be sharing my experiences, learning from scratch, and (fingers crossed!) evolving into a skilled and successful bug bounty hunter. Whether you're a beginner like me or already have some experience, I invite you to join me as I dive deep into the technical, tactical, and strategic sides of hunting bugs, finding vulnerabilities, reading write-ups, sharing helpful tips, and, hopefully, earning some cool bounties along the way.
 
 ![fa45524adfb7f984bf5ef49a411644a0.png](/assets/img/screenshots/bb0/fa45524adfb7f984bf5ef49a411644a0.png)
