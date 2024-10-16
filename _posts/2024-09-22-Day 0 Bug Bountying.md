@@ -27,7 +27,3 @@ By the end of these 100 days, I want to:
 4.  Sharpen my AppSec (Application Security) skills so I can tackle any challenge that comes my way.
 5.  Connect with and learn from the bug bounty community.
 6.  Document this journey as a resource for anyone else who wants to dive into BB
-
-&nbsp;
-
-&nbsp;
