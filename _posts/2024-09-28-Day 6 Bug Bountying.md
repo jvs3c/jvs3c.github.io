@@ -1,5 +1,5 @@
 ---
-title: utomated tool - Bug Bountying 5/100
+title: Automated tool - Bug Bountying 6/100
 tags: BugBounty
 categories: 
 ---
