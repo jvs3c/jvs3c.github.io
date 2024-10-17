@@ -1,5 +1,5 @@
 ---
-title: More AWS! - Bug Bountying 1/100
+title: More AWS! - Bug Bountying 2/100
 tags: BugBounty
 categories: 
 ---
