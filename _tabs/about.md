@@ -9,10 +9,10 @@ class AboutMe:
     def __init__(self):
         self.name = 'Jon'
         self.web = 'https://jvs3c.github.io/'
-        self.nick = 'v3l4r10'
+        self.nick = 'jVs3c'
         self.role = 'Security Researcher'
         self.certs = ['OSWE', 'OSCP','OSWP','CRTE', 'BSCP', ...]
-	self.hobbies = ['OffSec 💻','Traveling ✈️', 'Nature 🏔️', 'Sushi 🍣' ...]
+	self.hobbies = ['OffSec 💻','Traveling ✈️', 'Nature 🏔️', 'Food 🍣' ...]
 		
 if __name__ == "__main__":
     me = AboutMe()
